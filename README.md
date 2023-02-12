@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://github.com/Bl4ck-lion/ScBot"><img title="Author" src="https://img.shields.io/badge/Author-LeonGanz-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
+  <a href="https://www.murphysec.com/accept?code=858bf237f23338ffc0b5981ee51c7e1f&type=1&from=2&t=2" alt="Status Keamanan"><img src="https://www.murphysec.com/platform3 /v3/badge/1616514276122984448.svg?t=1" /></a>
 <p align="center">
 <a href="https://github.com/kamikaze2325/ScBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kamikaze2325?color=blue&style=flat-square"></a>
 <a href="https://github.com/kamikaze2325/ScBot"><img title="Stars" src="https://img.shields.io/github/stars/kamikaze2325/ScBot?color=red&style=flat-square"></a>
